@@ -1,0 +1,7 @@
+com\mock\tests\RegisterFlowTest$RegisterPayload.class
+com\mock\tests\CartUserFlowTest.class
+com\mock\tests\RegisterFlowTest.class
+com\mock\tests\NavigationAndCatalogTest.class
+com\mock\tests\OrderCheckoutUserFlowTest.class
+com\mock\tests\AuthUserFlowTest.class
+com\mock\tests\BaseUiTest.class
